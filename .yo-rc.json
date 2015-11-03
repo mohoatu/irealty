@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "irealty",
+    "packageName": "com.irealty.crm",
+    "packageFolder": "com/irealty/crm",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": false,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "68d868b6e07c9a3ee84a9fffd73db7b04a232999",
+    "testFrameworks": [
+      "gatling"
+    ]
+  }
+}
